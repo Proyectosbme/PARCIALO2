@@ -56,4 +56,17 @@
         android:onClick="Vista"/>
 
 
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnVsita"
+        android:text="Mostrar vehiculos"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/design_default_color_secondary"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:onClick="Vista"/>
+
+
+
 </LinearLayout>
